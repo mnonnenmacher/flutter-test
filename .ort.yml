@@ -1,0 +1,5 @@
+analyzer:
+  package_managers:
+    Pub:
+      options:
+        flutterVersion: 3.22.1-stable
