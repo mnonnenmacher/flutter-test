@@ -1,5 +1,8 @@
 analyzer:
   package_managers:
+    Gradle:
+      must_run_after:
+        - Pub
     Pub:
       options:
         flutterVersion: 3.22.1-stable
